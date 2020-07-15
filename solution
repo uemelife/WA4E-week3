@@ -1,0 +1,6 @@
+Load the assignment page, 
+start developer console, 
+refresh the page, 
+click once on the page name, 
+look in the headers tab. = session ID
+in the inspect element area under application next to wa4e_secret_cookie = cookie value
